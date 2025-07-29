@@ -1,14 +1,17 @@
 
-*{
-    /* background-image: url(/images/cafe.jpg); */
-    background:linear-gradient(40deg, #000000 0%, #363f4b 100%);
+body{
+    background-image: url(images/cafe.jpg);
+    /* background-repeat: no-repeat; */
+    /* background-size:contain; */
+    background-size: 150% 50%;
+    /* background:linear-gradient(40deg, #000000 0%, #363f4b 100%); */
 }
 h1, h2, p, span, button{
     background: none;
 }
 h1{
     text-align: center;
-    color: rgb(255, 255, 255);
+    color: rgb(86, 1, 1);
     font-size: 60px;
 }
 .cabeza{
@@ -89,7 +92,7 @@ h1{
     /* z-index: 100; */
     width: 100%;
     height: 100%;
-    background-image: url("images/cursodeveranodeesgrima-Photoroom.png");
+    background-image: url(/images/cursodeveranodeesgrima-Photoroom.png);
     background-repeat: no-repeat;
     background-size: 100%;
     /* border-radius: 12px;
@@ -131,32 +134,32 @@ h1{
     width: 440px;
 } */
 .container .card2 .pic{
-    background-image: url("images/cursodeveranodearqueria-Photoroom.png");
+    background-image: url(/images/cursodeveranodearqueria-Photoroom.png);
     /* transition: 0.3s ease; */
 }
 .container .card3 .pic{
-    background-image: url("images/cursodeesgrima.jpeg");
+    background-image: url(/images/cursodeesgrima.jpeg);
     margin-top: 25px;
     border-radius: 2%;
     /* transition: 0.3s ease; */
 
 }
 .container .card4 .pic{
-    background-image: url("images/cursodearqueria.jpeg");
+    background-image: url(/images/cursodearqueria.jpeg);
     background-size: 99% 95%;
     
     /* transition: 0.3s ease; */
 
 }
 .container .card5 .pic{
-    background-image: url("images/cursodeesg-arq.jpeg");
+    background-image: url(/images/cursodeesg-arq.jpeg);
     background-size: 99% 95%;
     
     /* transition: 0.3s ease; */
 
 }
 .container .card6 .pic{
-    background-image: url("images/kamelotelcastillodelrey.jpeg");
+    background-image: url(/images/kamelotelcastillodelrey.jpeg);
     background-size: 99% 95%;
     
     /* transition: 0.3s ease; */
@@ -177,6 +180,19 @@ h1{
     
     /* transition: 0.3s ease; */
 
+}
+.redes ul{
+    background: none;
+    list-style-type: none;
+    
+}
+.redes ul li{
+    display: inline;
+}
+.redes ul li a img{
+    width: 60px;
+    height: 60px;
+    margin: 10px;
 }
 
 /* responsive */
