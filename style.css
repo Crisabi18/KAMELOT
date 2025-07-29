@@ -228,4 +228,9 @@ h1{
     height: 100%;
 
 }
+    .redes ul li a img{
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+}
 }
