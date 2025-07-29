@@ -92,7 +92,7 @@ h1{
     /* z-index: 100; */
     width: 100%;
     height: 100%;
-    background-image: url(/images/cursodeveranodeesgrima-Photoroom.png);
+    background-image: url(images/cursodeveranodeesgrima-Photoroom.png);
     background-repeat: no-repeat;
     background-size: 100%;
     /* border-radius: 12px;
@@ -134,32 +134,32 @@ h1{
     width: 440px;
 } */
 .container .card2 .pic{
-    background-image: url(/images/cursodeveranodearqueria-Photoroom.png);
+    background-image: url(images/cursodeveranodearqueria-Photoroom.png);
     /* transition: 0.3s ease; */
 }
 .container .card3 .pic{
-    background-image: url(/images/cursodeesgrima.jpeg);
+    background-image: url(images/cursodeesgrima.jpeg);
     margin-top: 25px;
     border-radius: 2%;
     /* transition: 0.3s ease; */
 
 }
 .container .card4 .pic{
-    background-image: url(/images/cursodearqueria.jpeg);
+    background-image: url(images/cursodearqueria.jpeg);
     background-size: 99% 95%;
     
     /* transition: 0.3s ease; */
 
 }
 .container .card5 .pic{
-    background-image: url(/images/cursodeesg-arq.jpeg);
+    background-image: url(images/cursodeesg-arq.jpeg);
     background-size: 99% 95%;
     
     /* transition: 0.3s ease; */
 
 }
 .container .card6 .pic{
-    background-image: url(/images/kamelotelcastillodelrey.jpeg);
+    background-image: url(images/kamelotelcastillodelrey.jpeg);
     background-size: 99% 95%;
     
     /* transition: 0.3s ease; */
